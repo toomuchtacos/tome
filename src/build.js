@@ -4,7 +4,7 @@
 
     paths: {
 
-        'zepto': '../example/js/vendor/zepto',
+        'zepto': './vendor/zepto',
 
         'tome': './tome'
 

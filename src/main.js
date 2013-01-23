@@ -4,9 +4,7 @@
 
 require.config({
 
-    baseUrl: '/static/js/',
-
-    deps: [],
+    baseUrl: '/example/js/',
 
     paths: {
 
